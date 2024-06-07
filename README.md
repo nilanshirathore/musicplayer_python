@@ -8,4 +8,6 @@ Technologies Used:
 1. Programming Language: Python
 2. GUI Library: Tkinter
 3. Audio Processing: Pygame
+
+
 This project showcases my ability to blend creativity with technical skills to build practical applications. I'm continuously looking for ways to innovate and enhance user experiences through technology
